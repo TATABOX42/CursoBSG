@@ -127,7 +127,7 @@ git commit -m "mensaje descriptivo del cambio"
 El comando `git push` envía los commits locales al repositorio remoto.
 
 ```bash
-git push origin <nombre-de-la-rama>
+git push
 ```
 
 **Buenas prácticas:**
