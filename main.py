@@ -16,7 +16,7 @@ def ejercicio_2_longitud_cadena_incorrecta(cadena):
     """
     longitud = 0
     for caracter in cadena:
-        longitud += 2
+        longitud += 3
     return longitud
 
 
