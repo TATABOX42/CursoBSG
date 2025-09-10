@@ -7,7 +7,7 @@ def ejercicio_1_suma_incorrecta(a, b):
     """
     Ejercicio 1: Esta función debería sumar dos números, pero tiene un error.
     """
-    return a - b
+    return a - b * 2
 
 
 def ejercicio_2_longitud_cadena_incorrecta(cadena):
